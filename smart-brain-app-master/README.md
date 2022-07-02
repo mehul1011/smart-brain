@@ -73,7 +73,3 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 Clarifai Face Detection API<br>
 Sweet-Alert
-
-## Developer
-
-[Siddhant Sehgal](https://github.com/coderrsid)
